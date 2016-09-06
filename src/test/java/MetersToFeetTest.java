@@ -14,6 +14,5 @@ public class MetersToFeetTest {
         assertEquals(30, DistanceConverter.metersToFeet(10));
         assertEquals(150, DistanceConverter.metersToFeet(50));
 
-
     }
 }
